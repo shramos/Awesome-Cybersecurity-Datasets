@@ -59,3 +59,4 @@ Happy learning!
 * [Website Phishing Data Set](http://archive.ics.uci.edu/ml/datasets/Website+Phishing) - We have identified different features related to legitimate and phishy websites and collected 1353 different websites from difference sources.
 * [Microsoft Malware Classification Challenge](https://www.kaggle.com/c/malware-classification/data) - You are provided with a set of known malware files representing a mix of 9 different families. Each malware file has an Id, a 20 character hash value uniquely identifying the file, and a Class, an integer representing one of 9 family names.
 * [StopForumSpam](https://www.stopforumspam.com/downloads) - The data provided here represents what we believe will only ever ben used to abuse. IP Addresses, domains and usernames listed here will be returned in API results as "blacklisted".
+* [WerdLists](https://decal.github.io/werdlists) - Wordlists, Dictionaries and Other Data Sets for Writing Software Security Test Cases.
