@@ -6,7 +6,7 @@ Please contribute to this list with new datasets by sending me a pull request or
 Happy learning!
 
 # Datasets
-### Index
+## Table of contents
 * [Network traffic](#network-traffic)
 * [Malware](#malware)
 * [WebApps](#webapps)
