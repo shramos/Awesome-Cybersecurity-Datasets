@@ -10,7 +10,7 @@ Happy learning!
 * [Network traffic](#network-traffic)
 * [Malware](#malware)
 * [WebApps](#webapps)
-* [URLs & Domain Names](#urls-domain-names)
+* [URLs & Domain Names](#urls--domain-names)
 * [Host](#host)
 * [Email](#email)
 * [Fraud](#fraud)
