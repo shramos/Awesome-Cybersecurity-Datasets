@@ -5,8 +5,7 @@ Please contribute to this list with new datasets by sending me a pull request or
 
 Happy learning!
 
-# Datasets
-## Table of contents
+# Table of contents
 * [Network traffic](#network-traffic)
 * [Malware](#malware)
 * [WebApps](#webapps)
@@ -20,6 +19,7 @@ Happy learning!
 * [Passwords](#passwords)
 * [MISC](#misc)
 
+# Datasets
 ## Network traffic
 * [Unified Host and Network Dataset](https://csr.lanl.gov/data/2017.html) - The Unified Host and Network Dataset is a subset of network and computer (host) events collected from the Los Alamos National Laboratory enterprise network over the course of approximately 90 days. The host event logs originated from most enterprise computers running the Microsoft Windows operating system on Los Alamos National Laboratory's (LANL) enterprise network. The network event data originated from many of the internal enterprise routers within the LANL enterprise network.
 * [Comprehensive, Multi-Source Cyber-Security Events](https://csr.lanl.gov/data/cyber1/) - This data set represents 58 consecutive days of de-identified event data collected from five sources within Los Alamos National Laboratory's corporate, internal computer network.
