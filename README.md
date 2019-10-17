@@ -32,7 +32,7 @@ Happy learning!
 * [pcapt](https://www.pcapr.net) - Big repository of PCAP files.
 * [Project Sonar](https://github.com/rapid7/sonar/wiki/UDP) - Project Sonar produces multiple UDP datasets every month. This data is gathered by sending protocol-specific UDP probes across the entire IPv4 address space. The types of probes sent each week continues to expand as the project matures.
 * [IoT devices captures](https://research.aalto.fi/en/datasets/iot-devices-captures(285a9b06-de31-4d8b-88e9-5bdba46cc161).html) - This dataset represents the traffic emitted during the setup of 31 smart home IoT devices of 27 different types (4 types are represented by 2 devices each). Each setup was repeated at least 20 times per device-type.
-* .[Malware traffic Analysis](http://www.malware-traffic-analysis.net/) An accumulated set of various analsys of malware traffic.
+* [Malware traffic Analysis](http://www.malware-traffic-analysis.net/) An accumulated set of various analsys of malware traffic.
 
 ### Malware
 * [UNSW-NB15 data set](https://www.unsw.adfa.edu.au/unsw-canberra-cyber/cybersecurity/ADFA-NB15-Datasets/) - This data set has nine families of attacks, namely, Fuzzers, Analysis, Backdoors, DoS, Exploits, Generic, Reconnaissance, Shellcode and Worms. The Argus, Bro-IDS tools are utilised and twelve algorithms are developed to generate totally 49 features with the class label.
@@ -94,7 +94,7 @@ Happy learning!
 * [Yahoo Password Frequency Corpus](https://figshare.com/articles/Yahoo_Password_Frequency_Corpus/2057937) - This dataset includes sanitized password frequency lists collected from Yahoo in May 2011.
 
 ### MISC
-* .[Haveibeenpwned](https://haveibeenpwned.com/) - Check to see if data has been taken in breaches via email input. 
+* [Haveibeenpwned](https://haveibeenpwned.com/) - Check to see if data has been taken in breaches via email input. 
 * [SecRepo](http://www.secrepo.com/) - Samples of Security Related Data.
 * [PANDA SHARE](http://www.rrshare.org/) - This site stores recordings of executions produced by the PANDA dynamic analysis platform. The goal is to make dyanamic analysis repeatable. Any analysis dynamic analysis, run on the same replay, will produce the same results.
 * [SHERLOCK](http://bigdata.ise.bgu.ac.il/sherlock/index.html#/download) - The dataset is essentially a massive time-series dataset spanning nearly every single kind of software and hardware sensor that can be sampled from a Samsung Galaxy S5 smartphone, without root privileges. The dataset contains over 600 billion data points in over 10 billion data records.
