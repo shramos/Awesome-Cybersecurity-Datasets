@@ -42,8 +42,7 @@ Happy learning!
 * [Microsoft Malware Classification Challenge](https://www.kaggle.com/c/malware-classification/data) - You are provided with a set of known malware files representing a mix of 9 different families. Each malware file has an Id, a 20 character hash value uniquely identifying the file, and a Class, an integer representing one of 9 family names.
 
 ### Software
-* [Javascript Vulnerability datasets](http://www.inf.u-szeged.hu/~ferenc/papers/JSVulnerabilityDataSet/) 
-
+* [Javascript Vulnerability dataset](http://www.inf.u-szeged.hu/~ferenc/papers/JSVulnerabilityDataSet/)  - Dataset constructed from the vulnerability information in public databases of the Node Security Project and the Snyk platform, and code fixing patches from GitHub.
 
 ### WebApps
 * [West Point NSA Data Sets](https://www.westpoint.edu/crc/SitePages/DataSets.aspx) - Snort Intrusion Detection Log. Domain Name Service Logs. Web Server Logs. Log Server Aggregate Log.
