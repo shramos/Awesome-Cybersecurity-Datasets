@@ -9,6 +9,7 @@ Happy learning!
 * [Network traffic](#network-traffic)
 * [Malware](#malware)
 * [WebApps](#webapps)
+* [Software](#software)
 * [URLs & Domain Names](#urls--domain-names)
 * [Host](#host)
 * [Email](#email)
@@ -39,6 +40,10 @@ Happy learning!
 * [The Drebin Dataset](https://www.sec.cs.tu-bs.de/~danarp/drebin/) - The dataset contains 5,560 applications from 179 different malware families. The samples have been collected in the period of August 2010 to October 2012 and were made available to us by the MobileSandbox project.
 * [Stratosphere IPS](https://www.stratosphereips.org/datasets-overview/) - Malware captures, Normal captures, mixed captures...
 * [Microsoft Malware Classification Challenge](https://www.kaggle.com/c/malware-classification/data) - You are provided with a set of known malware files representing a mix of 9 different families. Each malware file has an Id, a 20 character hash value uniquely identifying the file, and a Class, an integer representing one of 9 family names.
+
+### Software
+* [Javascript Vulnerability datasets](http://www.inf.u-szeged.hu/~ferenc/papers/JSVulnerabilityDataSet/) 
+
 
 ### WebApps
 * [West Point NSA Data Sets](https://www.westpoint.edu/crc/SitePages/DataSets.aspx) - Snort Intrusion Detection Log. Domain Name Service Logs. Web Server Logs. Log Server Aggregate Log.
