@@ -22,6 +22,7 @@ Happy learning!
 
 ## Datasets
 ### Network traffic
+* [HIKARI-2021](https://zenodo.org/record/5199540) - Available datasets from the paper Generating Encrypted Network Traffic for Intrusion Detection Datasets [paper](https://www.mdpi.com/2076-3417/11/17/7868/htm). This dataset contains encrypted synthetic attacks and benign traffic.
 * [Unified Host and Network Dataset](https://csr.lanl.gov/data/2017.html) - The Unified Host and Network Dataset is a subset of network and computer (host) events collected from the Los Alamos National Laboratory enterprise network over the course of approximately 90 days. The host event logs originated from most enterprise computers running the Microsoft Windows operating system on Los Alamos National Laboratory's (LANL) enterprise network. The network event data originated from many of the internal enterprise routers within the LANL enterprise network.
 * [Comprehensive, Multi-Source Cyber-Security Events](https://csr.lanl.gov/data/cyber1/) - This data set represents 58 consecutive days of de-identified event data collected from five sources within Los Alamos National Laboratory's corporate, internal computer network.
 * [User-Computer Authentication Associations in Time](https://csr.lanl.gov/data/auth/) - This anonymized data set encompasses 9 continuous months and represents 708,304,516 successful authentication events from users to computers collected from the Los Alamos National Laboratory (LANL) enterprise network.
