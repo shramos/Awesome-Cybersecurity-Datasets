@@ -33,6 +33,9 @@ Happy learning!
 * [pcapt](https://www.pcapr.net) - Big repository of PCAP files.
 * [Project Sonar](https://github.com/rapid7/sonar/wiki/UDP) - Project Sonar produces multiple UDP datasets every month. This data is gathered by sending protocol-specific UDP probes across the entire IPv4 address space. The types of probes sent each week continues to expand as the project matures.
 * [IoT devices captures](https://research.aalto.fi/en/datasets/iot-devices-captures(285a9b06-de31-4d8b-88e9-5bdba46cc161).html) - This dataset represents the traffic emitted during the setup of 31 smart home IoT devices of 27 different types (4 types are represented by 2 devices each). Each setup was repeated at least 20 times per device-type.
+* [YourThings: IoT security evaluation](https://yourthings.info/data) - The dataset is the result of thousands of research hours to build a large testbed with diverse home-based IoT devices. The YourThings project conducted a comprehensive security evaluation of 45 diverse home-based IoT devices. The security evaluation is an internet protocol (IP)-based, which allowed us to record the entire process in full-packet capture (PCAP) traces. The security evaluation includes network vulnerability scans, network interception assessment, and device idle and active network profiles. The YourThings dataset consists of 13 PCAP files ranging between 10GB to 13GB in size for a total of approximately 150GB. 
+
+
 
 ### Malware
 * [UNSW-NB15 data set](https://www.unsw.adfa.edu.au/unsw-canberra-cyber/cybersecurity/ADFA-NB15-Datasets/) - This data set has nine families of attacks, namely, Fuzzers, Analysis, Backdoors, DoS, Exploits, Generic, Reconnaissance, Shellcode and Worms. The Argus, Bro-IDS tools are utilised and twelve algorithms are developed to generate totally 49 features with the class label.
@@ -89,6 +92,8 @@ Happy learning!
 
 ### Binaries
 * [The ember dataset](https://github.com/endgameinc/ember) - The ember dataset is a collection of 1.1 million sha256 hashes from PE files that were scanned sometime in 2017. This repository makes it easy to reproducibly train the benchmark model, extend the provided feature set, or classify new PE files with the benchmark model.
+* [BadThings: IoT Malware Dataset](https://badthings.info/#bins) - The dataset includes over 166K IoT malware samples collected in 2019. BadThings is a dedicated resource for studying Linux-based IoT malware. The work analyzed 166K Linux-based IoT malware samples and documented their lifecycle. 
+
 
 ### Phishing
 * [Phishing Websites Data Set](https://archive.ics.uci.edu/ml/datasets/phishing+websites#) - In this dataset, we shed light on the important features that have proved to be sound and effective in predicting phishing websites. In addition, we propose some new features.
