@@ -83,6 +83,8 @@ Happy learning!
 ### Fraud
 * [Credit Card Fraud](https://www.kaggle.com/samkirkiles/credit-card-fraud/data) - The datasets contains transactions made by credit cards in September 2013 by european cardholders. This dataset presents transactions that occurred in two days, where we have 492 frauds out of 284,807 transactions. The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions.
 
+* [Romance Scam Statistics 2024-2026](https://github.com/lovevalentin-droid/romance-scam-statistics) - Verified, source-attributed statistics on romance scams (confidence fraud), compiled from FBI IC3 2025, FTC, City of London Police, Cybermalveillance.gouv.fr, GASA and Chainalysis reports. Includes losses, complaint volumes, victim demographics, AI-nexus and cryptocurrency-nexus figures, with exact citations and known data gaps.
+
 ### Honeypots
 * [DDS Dataset Collection](http://datadrivensecurity.info/blog/pages/dds-dataset-collection.html) - A tar/gzip CSV file from a collection of AWS honeypots. A zip CSV file of domains and a high level classification of dga or legit along with a subclass of either legit, cryptolocker, gox or newgoz.
 * [Threat_Research](https://github.com/JonathanPhillips/Threat_Research) - Centralized repository to dump threat research data gathered from my network of honeypots.
