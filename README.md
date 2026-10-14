@@ -35,6 +35,8 @@ Happy learning!
 * [IoT devices captures](https://research.aalto.fi/en/datasets/iot-devices-captures(285a9b06-de31-4d8b-88e9-5bdba46cc161).html) - This dataset represents the traffic emitted during the setup of 31 smart home IoT devices of 27 different types (4 types are represented by 2 devices each). Each setup was repeated at least 20 times per device-type.
 
 ### Malware
+* [Malware Families Catalog](https://malware-families-catalog.systemhelpdesk.com/) - Curated encyclopedia of 2,903 malware families with MITRE ATT&CK mapping, incident response playbooks, actionable IOCs, and datasets in Parquet and JSONL. ([DOI: 10.5281/zenodo.20515698](https://doi.org/10.5281/zenodo.20515698))
+
 * [UNSW-NB15 data set](https://www.unsw.adfa.edu.au/unsw-canberra-cyber/cybersecurity/ADFA-NB15-Datasets/) - This data set has nine families of attacks, namely, Fuzzers, Analysis, Backdoors, DoS, Exploits, Generic, Reconnaissance, Shellcode and Worms. The Argus, Bro-IDS tools are utilised and twelve algorithms are developed to generate totally 49 features with the class label.
 * [Malware Training Sets](https://marcoramilli.blogspot.com/2016/12/malware-training-sets-machine-learning.html) - Today (please refers to blog post date) the collected classified datasets is composed by the following samples: APT1 292 Samples, Crypto 2024 Samples, Locker 434 Samples, Zeus 2014 Samples
 * [The Drebin Dataset](https://www.sec.cs.tu-bs.de/~danarp/drebin/) - The dataset contains 5,560 applications from 179 different malware families. The samples have been collected in the period of August 2010 to October 2012 and were made available to us by the MobileSandbox project.
