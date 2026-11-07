@@ -88,6 +88,7 @@ Happy learning!
 * [Threat_Research](https://github.com/JonathanPhillips/Threat_Research) - Centralized repository to dump threat research data gathered from my network of honeypots.
 
 ### Binaries
+* [File Formats Technical Encyclopedia](https://github.com/PabloCirre/file-formats-encyclopedia) - Open dataset and specifications repository covering headers, magic bytes, structure, and conversion rules for 100+ binary and text formats.
 * [The ember dataset](https://github.com/endgameinc/ember) - The ember dataset is a collection of 1.1 million sha256 hashes from PE files that were scanned sometime in 2017. This repository makes it easy to reproducibly train the benchmark model, extend the provided feature set, or classify new PE files with the benchmark model.
 
 ### Phishing
